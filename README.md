@@ -4,7 +4,7 @@ A Leiningen plugin for exposing project configuration.
 
 ## Usage
 
-Put `[meta "0.1.0-SNAPSHOT"]` into the `:plugins` vector of your
+Put `[lein-meta "0.1.0-SNAPSHOT"]` into the `:plugins` vector of your
 `:user` profile or your project.clj.
 
 For example:
